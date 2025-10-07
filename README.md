@@ -1,1 +1,1 @@
-# C-project
+# This is a C++ application for managing and analyzing a dictionary stored in a text file. The program loads words into a vector of Word objects, enabling users to search for definitions, retrieve random words, and generate novel words and paragraphs based on character sequence probabilities calculated from the dictionary. Features an interactive menu with robust input handling and formatted output, leveraging object-oriented programming, file I/O, and STL containers (vector, map) for efficient data processing.
